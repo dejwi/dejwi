@@ -1,5 +1,5 @@
 - 16yr from Poland
-- currently learning c#
+- currently learning webdev
 - discord: dejw#1927
 
 <!---
