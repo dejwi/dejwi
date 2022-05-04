@@ -1,6 +1,6 @@
 - 16yr from Poland
 - currently learning webdev
-- discord: dejw#1927
+- discord: dejw#0001
 
 <!---
 dejwi/dejwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
